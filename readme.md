@@ -43,8 +43,70 @@
   .pptx 是针对前两道题的自己的做法的讲解
 
 
-#### 在实验报告中有各个实验运行的结果展示和性能展示
+
+## ```仅供学习交流，切勿抄袭作业！！！```
 
 
-## 仅供学习交流，切勿抄袭作业！！！
+### 在实验报告中有各个实验运行的结果展示和性能展示，部分图片如下：
+
+#### 题目一
+
+*  array search
+
+<img width="450" alt="运行结果" align="center" src="https://github.com/Chaunhewie/Search_TreeSearch_Match_BcrawlerAndPagerank/raw/master/images/01-array_search_v2.png">
+
+*  hashtable search
+
+<img width="450" alt="运行结果" align="center" src="https://github.com/Chaunhewie/Search_TreeSearch_Match_BcrawlerAndPagerank/raw/master/images/01-hashtable_search_v2.png">
+
+*  bf search
+
+<img width="450" alt="运行结果" align="center" src="https://github.com/Chaunhewie/Search_TreeSearch_Match_BcrawlerAndPagerank/raw/master/images/01-bf_search_v2.png">
+
+
+#### 题目二
+
+*  btree search
+
+<img width="450" alt="运行结果" align="center" src="https://github.com/Chaunhewie/Search_TreeSearch_Match_BcrawlerAndPagerank/raw/master/images/02-btree.png">
+<img width="450" alt="运行结果" align="center" src="https://github.com/Chaunhewie/Search_TreeSearch_Match_BcrawlerAndPagerank/raw/master/images/02-btree_search.gif">
+
+*  bplustree search
+
+<img width="450" alt="运行结果" align="center" src="https://github.com/Chaunhewie/Search_TreeSearch_Match_BcrawlerAndPagerank/raw/master/images/02-bplustree.png">
+<img width="450" alt="运行结果" align="center" src="https://github.com/Chaunhewie/Search_TreeSearch_Match_BcrawlerAndPagerank/raw/master/images/02-bplus_search.gif">
+
+*  radixtree search
+
+<img width="450" alt="运行结果" align="center" src="https://github.com/Chaunhewie/Search_TreeSearch_Match_BcrawlerAndPagerank/raw/master/images/02-radixtree.png">
+<img width="450" alt="运行结果" align="center" src="https://github.com/Chaunhewie/Search_TreeSearch_Match_BcrawlerAndPagerank/raw/master/images/02-radix4.gif">
+
+*  patriciatree search
+
+<img width="450" alt="运行结果" align="center" src="https://github.com/Chaunhewie/Search_TreeSearch_Match_BcrawlerAndPagerank/raw/master/images/02-patricia.gif">
+
+#### 题目三
+
+*  strstr match
+
+<img width="450" alt="运行结果" align="center" src="https://github.com/Chaunhewie/Search_TreeSearch_Match_BcrawlerAndPagerank/raw/master/images/03-strstr.png">
+
+*  multikmp match
+
+<img width="450" alt="运行结果" align="center" src="https://github.com/Chaunhewie/Search_TreeSearch_Match_BcrawlerAndPagerank/raw/master/images/03-multikmp.png">
+
+*  acauto match
+
+<img width="450" alt="运行结果" align="center" src="https://github.com/Chaunhewie/Search_TreeSearch_Match_BcrawlerAndPagerank/raw/master/images/03-ac_auto.png">
+
+#### 题目四
+
+*  bcrawler
+
+<img width="450" alt="运行结果" align="center" src="https://github.com/Chaunhewie/Search_TreeSearch_Match_BcrawlerAndPagerank/raw/master/images/04-bcrawler.png">
+
+*  pagerank
+
+<img width="450" alt="运行结果" align="center" src="https://github.com/Chaunhewie/Search_TreeSearch_Match_BcrawlerAndPagerank/raw/master/images/04-pagerank.png">
+
 
